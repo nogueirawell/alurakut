@@ -16,6 +16,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     font-family: sans-serif;
     background-color: #D9E6F6;
+    background-image: url("https://images2.alphacoders.com/582/thumb-1920-582804.png");
   }
 
   #__next {
